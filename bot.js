@@ -36,5 +36,4 @@ console.log('Dev Narox by Jackeo')
 
 
 
-
-client.login(NTQxMjU5MTIxNjkzOTQ5OTY1.Dz88SA.wWNnXtg9BpeurCSm1zVu6PKzlWw);
+client.login(process.env.BOT_TOKEN);//لا تعدل او تحط توكن بوتك فيه
