@@ -29,4 +29,4 @@ client.user.setStatus("dnd")
 
 
 
-client.login(" توكن البوت ");
+client.login(process.env.BOT_TOKEN);//لا تعدل او تحط توكن بوتك فيها
